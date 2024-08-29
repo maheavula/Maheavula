@@ -23,19 +23,31 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-E3386C?logo=sqlite&logoColor=white&style=flat-square)
+![GAS](https://img.shields.io/badge/-GAS-4285F4?logo=appscript&logoColor=white&style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-009D38?logo=nmap&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-4285F4?logo=wireshark&logoColor=white&style=flat-square)
+![Tcpdump](https://img.shields.io/badge/-Tcpdump-000000?logo=tcpdump&logoColor=white&style=flat-square)
+![Splunk](https://img.shields.io/badge/-Splunk-007AFF?logo=splunk&logoColor=white&style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-F7DF1E?logo=zap&logoColor=black&style=flat-square)
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-8C001A?logo=virustotal&logoColor=white&style=flat-square)
+![Any.Run](https://img.shields.io/badge/-Any.Run-007BFF?logo=anyrun&logoColor=white&style=flat-square)
+![Networking and Network Security](https://img.shields.io/badge/-Networking%20and%20Network%20Security-007AFF?style=flat-square)
+![Risk Management](https://img.shields.io/badge/-Risk%20Management-FF0000?style=flat-square)
+![Asset, Threat & Vulnerability Management](https://img.shields.io/badge/-Asset%2C%20Threat%20%26%20Vulnerability%20Management-008000?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/-Threat%20Modeling-FFA500?style=flat-square)
+![Incident Investigation and Response](https://img.shields.io/badge/-Incident%20Investigation%20and%20Response-808080?style=flat-square)
+![Understanding of Security Frameworks (NIST CSF)](https://img.shields.io/badge/-Understanding%20of%20Security%20Frameworks%20(NIST%20CSF)-0000FF?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-00FFFF?style=flat-square)
 
 ## 🏆 Certifications
 
-- [Certification Name 1](https://linktocertificate1.com) - *Issuing Organization* 
-  ![Badge](https://img.shields.io/badge/Certification-Awesome-blue)
+- [Google Cybersecurity Professional](https://www.linkedin.com/in/avula-maheswar-reddy-0998a529a/details/certifications/) (*Coursera.org*)
+  ![Badge](https://img.shields.io/badge/Certificate-Awesome-blue)
   
-- [Certification Name 2](https://linktocertificate2.com) - *Issuing Organization*
-  ![Badge](https://img.shields.io/badge/Certification-Excellent-green)
+- [Introduction to Network Analysis](https://www.linkedin.com/in/avula-maheswar-reddy-0998a529a/details/certifications/) (*SecurityBlue.Team*)
+  ![Badge](https://img.shields.io/badge/Certificate-Excellent-green)        
 
 ## 📫 Let's Connect!
 
@@ -48,12 +60,6 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
 - [Email](mailto:yourname@example.com)
   ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Avula Maheswar Reddy](https://github.com/maheavula)
