@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a passion for 
   ![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)
 - [Portfolio](https://yourwebsite.com)
   ![Website](https://img.shields.io/badge/-Website-3b5998?logo=google-chrome&logoColor=white&style=flat-square)
-- [Email](mailto:yourname@example.com)
+- [Email](mailto:maheshavula0366@gmail.com)
   ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)
 
 ---
