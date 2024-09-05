@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **maheshavula0366@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/maheavula/resume](https://github.com/maheavula/resume)
+- 📄 Know about my experiences [resume](https://maheavula.github.io/resume/)
 
 - ⚡ Fun fact **Everything is binary at the end, if not it is not the end.**
 
