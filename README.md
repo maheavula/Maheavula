@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [resume](https://maheavula.github.io/resume/)
 
-- ⚡ Fun fact **Everything is binary at the end, if not, it is not the end.**
+- ⚡ Fun fact **Everything is binary at the end, if not, then it is not the end.**
 
 <h3 align="left">🛠️ Technologies & Tools</h3>
 <p align="left">
