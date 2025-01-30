@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheavula&label=Profile%20views&color=0e75b6&style=flat" alt="maheavula" /> </p>
 
-- 🔭 I’m currently working on **ELK stack project**
+- 🔭 I’m currently working on **ELK stack and Wazuh project**
 
 - 🌱 I’m currently learning **Malware analysis**
 
