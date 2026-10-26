@@ -15,13 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=maheavula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on security engineering and SIEM projects, especially around Wazuh and ELK.
-- 🌱 I’m expanding my knowledge in malware analysis, application security, and network defense.
-- 👨‍💻 All of my projects and work are available at [maheavula.github.io](https://maheavula.github.io)
-- 💬 Ask me about application security, network security, incident response, and penetration testing.
-- 📫 Reach me at **maheshavula0366@gmail.com**
-- 📄 Know more about my experience via [resume](https://maheavula.github.io/resume/)
-- ⚡ Fun fact: **Everything is binary at the end — if it's not, then it isn't the end.**
+<h3 align="left">About Me</h3>
+<p align="left">
+  Cybersecurity enthusiast focused on application security, penetration testing, and secure development. I enjoy assessing web applications, exploring security workflows, and building small tools for personal use. I’m also interested in networking, malware analysis, and practical security automation.
+</p>
 
 <h3 align="left">🔐 Core Security Focus</h3>
 <p align="left">
